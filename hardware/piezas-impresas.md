@@ -1,21 +1,21 @@
-# Peces impreses en 3D
+﻿# Peces impreses en 3D
 
-> Tots els suports i peces mecàniques de la impressora estan impreses en 3D. Això permet adaptar cada peça exactament al disseny sense dependre de peces comercials difícils de trobar.
+> Tots els suports i peces mecÃ niques de la impressora estan impreses en 3D. AixÃ² permet adaptar cada peÃ§a exactament al disseny sense dependre de peces comercials difÃ­cils de trobar.
 
 ---
 
-## Materials d'impressió
+## Materials d'impressiÃ³
 
-| Material | Color | Ús |
+| Material | Color | Ãšs |
 |---------|-------|-----|
-| PETG | Verd | Peces estructurals no crítiques (escuadres, suports, protectors de barra, topes) |
-| ASA / ABS | Gris | Peces crítiques que requereixen major resistència (guies de fusell, portacables funcionals) |
+| PETG | Verd | Peces estructurals no crÃ­tiques (escuadres, suports, protectors de barra, topes) |
+| ASA / ABS | Gris | Peces crÃ­tiques que requereixen major resistÃ¨ncia (guies de fusell, portacables funcionals) |
 
 ---
 
-## Catàleg de peces
+## CatÃ leg de peces
 
-### Suports de motor NEMA 23 — ×4
+### Suports de motor NEMA 23 â€” Ã—4
 
 Grans suports verds que allotgen els motors NEMA 23 dels eixos X i Y. Tenen espai per al motor, l'acoblador i la corretja GT2.
 
@@ -26,13 +26,13 @@ Grans suports verds que allotgen els motors NEMA 23 dels eixos X i Y. Tenen espa
 
 ### Connectors de perfil d'alumini
 
-Connectors metàl·lics que uneixen els perfils d'alumini item 40×80mm entre si i ancoren les guies lineals (eixos X/Y i Z) al marc. No són peces impreses — són connectors comercials d'acer/alumini.
+Connectors metÃ lÂ·lics que uneixen els perfils d'alumini item 40Ã—80mm entre si i ancoren les guies lineals (eixos X/Y i Z) al marc. No sÃ³n peces impreses â€” sÃ³n connectors comercials d'acer/alumini.
 
 ![Diagrama muntatge femella-ranura](../fotos/01-estructura/conector-perfil-tuerca-ranura-diagrama.jpeg)
-*Diagrama de muntatge: la femella lliscant entra a la ranura del perfil item 40×80mm i el cargol la apressa des de dins.*
+*Diagrama de muntatge: la femella lliscant entra a la ranura del perfil item 40Ã—80mm i el cargol la apressa des de dins.*
 
 ![Connector angular perfil](../fotos/01-estructura/conector-angular-perfil-aluminio.jpeg)
-*Connector angular metàl·lic per unir dos perfils d'alumini en angle recte.*
+*Connector angular metÃ lÂ·lic per unir dos perfils d'alumini en angle recte.*
 
 ![Suports varis](../fotos/03-piezas-impresas/juntas-cruzadas-soportes.jpeg)
 *Tensors de corretja GT2 i suports.*
@@ -41,19 +41,19 @@ Connectors metàl·lics que uneixen els perfils d'alumini item 40×80mm entre si
 
 ### Guies i suports de fusell (grisos)
 
-Peces grises que subjecten el fusell trapezoïdal M12 i el mantenen alineat amb el marc.
+Peces grises que subjecten el fusell trapezoÃ¯dal M12 i el mantenen alineat amb el marc.
 
 ![Peces variades](../fotos/03-piezas-impresas/piezas-grises-verdes-variadas.jpeg)
-*Subjectadors de fusell, engranatges de calibració i suport d'endstop.*
+*Subjectadors de fusell, engranatges de calibraciÃ³ i suport d'endstop.*
 
 ---
 
 ### Suports de motor per a l'eix corretja (tensors)
 
-Peces verdes amb ranures per ajustar la tensió de la corretja GT2 dels eixos X i Y.
+Peces verdes amb ranures per ajustar la tensiÃ³ de la corretja GT2 dels eixos X i Y.
 
 ![Suport motor politja](../fotos/01-estructura/soporte-motor-polea-rail.jpeg)
-*Suport de motor amb politja metàl·lica muntat sobre el perfil d'alumini.*
+*Suport de motor amb politja metÃ lÂ·lica muntat sobre el perfil d'alumini.*
 
 ---
 
@@ -66,10 +66,10 @@ Peces grises petites que guien els cables pel marc i els mantenen ordenats.
 ## Totes les peces a l'aula
 
 ![Peces a l'aula](../fotos/03-piezas-impresas/piezas-impresas-todas-aula.jpeg)
-*Vista completa de totes les peces impreses abans del muntatge. Les verdes són estructurals, les grises són auxiliars.*
+*Vista completa de totes les peces impreses abans del muntatge. Les verdes sÃ³n estructurals, les grises sÃ³n auxiliars.*
 
 ![Peces a l'aula complet](../fotos/03-piezas-impresas/piezas-impresas-aula-completo.jpeg)
-*Vista més àmplia: tota la gamma de peces estesa a la taula de l'aula — suports de motor, portacables, tensors de corretja i guies.*
+*Vista mÃ©s Ã mplia: tota la gamma de peces estesa a la taula de l'aula â€” suports de motor, portacables, tensors de corretja i guies.*
 
 ![Suports NEMA23 alineats](../fotos/03-piezas-impresas/soportes-nema23-x4-alineados.jpeg)
 *Els quatre suports de motor NEMA 23 (verd) alineats. El disseny en U permet allotjar el motor, l'acoblador i la part superior del fusell.*
@@ -78,26 +78,26 @@ Peces grises petites que guien els cables pel marc i els mantenen ordenats.
 *Tensors de corretja GT2 verds, portacables grisos i suport de motor. Al fons es veu la corretja GT2.*
 
 ![Peces grises detall](../fotos/03-piezas-impresas/piezas-grises-portacables-engranajes.jpeg)
-*Peces auxiliars grises: portacables, engranatges de calibració i suport de sensor de filament muntat.*
+*Peces auxiliars grises: portacables, engranatges de calibraciÃ³ i suport de sensor de filament muntat.*
 
 ![Tensors GT2 i endstop](../fotos/03-piezas-impresas/tensores-gt2-endstop-correa.jpeg)
-*Tensors de corretja GT2 (verd), suport d'endstop (gris), i la corretja GT2 de pas 2mm, amplada 6mm. També es veuen els suports de ventilador i el carril guia.*
+*Tensors de corretja GT2 (verd), suport d'endstop (gris), i la corretja GT2 de pas 2mm, amplada 6mm. TambÃ© es veuen els suports de ventilador i el carril guia.*
 
 ---
 
-## Render del sistema de tensió de corretges
+## Render del sistema de tensiÃ³ de corretges
 
-![Render tensió corretges](../fotos/03-piezas-impresas/render-extrusor-so3.jpeg)
-*Renderitzat 3D del sistema de tensió de corretges GT2 dels eixos X i Y, mostrant el mecanisme d'ajust de tensió.*
+![Render tensiÃ³ corretges](../fotos/03-piezas-impresas/render-extrusor-so3.jpeg)
+*Renderitzat 3D del sistema de tensiÃ³ de corretges GT2 dels eixos X i Y, mostrant el mecanisme d'ajust de tensiÃ³.*
 
 ---
 
 ## Potes niveladoras amb bloqueig
 
-L'estructura reposa sobre **4 rodes niveladoras** amb bloqueig. Permeten moure la impressora fàcilment i fixar-la quan està en posició.
+L'estructura reposa sobre **4 rodes niveladoras** amb bloqueig. Permeten moure la impressora fÃ cilment i fixar-la quan estÃ  en posiciÃ³.
 
 ![Roda niveladora](../fotos/01-estructura/rueda-niveladora-con-bloqueo.jpeg)
-*Roda niveladora amb mecanisme de bloqueig. El botó taronja baixa un suport metàl·lic que eleva la roda del terra, immobilitzant la màquina.*
+*Roda niveladora amb mecanisme de bloqueig. El botÃ³ taronja baixa un suport metÃ lÂ·lic que eleva la roda del terra, immobilitzant la mÃ quina.*
 
 ---
 
@@ -105,15 +105,15 @@ L'estructura reposa sobre **4 rodes niveladoras** amb bloqueig. Permeten moure l
 
 ### Tancament amb panells de policarbonat
 
-Per poder imprimir materials tècnics (ABS, ASA, TPU) que necessiten temperatura ambient estable, es planeja tancar la màquina amb panells de policarbonat corrugat fixats amb **imants de neodimi**.
+Per poder imprimir materials tÃ¨cnics (ABS, ASA, TPU) que necessiten temperatura ambient estable, es planeja tancar la mÃ quina amb panells de policarbonat corrugat fixats amb **imants de neodimi**.
 
 ![Panell policarbonat](../fotos/01-estructura/panel-policarbonato-cierre-maquina.jpeg)
-*Panell corrugat de policarbonat — lleuger, resistent i fàcil de tallar a mida.*
+*Panell corrugat de policarbonat â€” lleuger, resistent i fÃ cil de tallar a mida.*
 
 ![Imant de neodimi](../fotos/01-estructura/iman-neodimio-10x5mm.jpeg)
-*Imant de neodimi ø10×5mm — encastat a les peces impreses per retenir els panells sense cargols.*
+*Imant de neodimi Ã¸10Ã—5mm â€” encastat a les peces impreses per retenir els panells sense cargols.*
 
-Els panells es fixen sense cargols: els imants van encastats a les peces impreses del marc i al cantell del panell, permetent obrir-los i tancar-los ràpidament.
+Els panells es fixen sense cargols: els imants van encastats a les peces impreses del marc i al cantell del panell, permetent obrir-los i tancar-los rÃ pidament.
 
 ---
 
@@ -121,6 +121,6 @@ Els panells es fixen sense cargols: els imants van encastats a les peces imprese
 
 Els arxius STEP de tots els components del projecte estan disponibles a la carpeta [`hardware/archivos-3d/`](archivos-3d/).
 
-Inclou: ensamblatge complet, extrusor Smart Orbiter v3.0, eixos X/Y/Z, llit calefactat, perfils item i elements de transmissió (57 arxius STEP en total).
+Inclou: ensamblatge complet, extrusor Smart Orbiter v3.0, eixos X/Y/Z, llit calefactat, perfils item i elements de transmissiÃ³ (57 arxius STEP en total).
 
-Dissenyats per **Sergio Tenorio Martínez**. Format STEP — compatible amb FreeCAD, Fusion 360, SolidWorks i qualsevol CAD estàndard. També visualitzables en línia a [3dviewer.net](https://3dviewer.net).
+Dissenyats per **Sergio Tenorio MartÃ­nez**. Format STEP â€” compatible amb FreeCAD, Fusion 360, SolidWorks i qualsevol CAD estÃ ndard. TambÃ© visualitzables en lÃ­nia a [3dviewer.net](https://3dviewer.net).

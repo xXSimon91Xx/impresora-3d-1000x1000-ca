@@ -19,7 +19,7 @@ dir_pin: PF12
 enable_pin: !PF14
 microsteps: 16
 rotation_distance: 40      # politja 20T × pas GT2 2mm = 40mm/volta
-endstop_pin: ^PG6          # ^ = pullup activat
+endstop_pin: ^!PF5         # T1 - pullup + lògica invertida
 position_endstop: 0        # home a la posició 0 (extrem esquerre)
 position_max: 1000         # recorregut màxim 1000mm
 homing_speed: 50
@@ -60,12 +60,12 @@ Motor NEMA17 → connector JST a MOTOR 0
 ## Cablejat de l'endstop
 
 ```
-Endstop X → STOP_0 (PG6)
-  Senyal → PG6
+Endstop X → T1 (PF5)
+  Senyal → PF5
   GND    → GND del connector
 ```
 
-El `^` a `endstop_pin: ^PG6` activa la resistència de pullup interna del STM32.
+El `^!` a `endstop_pin: ^!PF5` activa el pullup intern i la lògica invertida del STM32.
 
 ## Diagrama simplificat
 
@@ -76,5 +76,5 @@ MOTOR 0 ─────────── NEMA17 eix X
     ena:  !PF14
     uart: PC4 (TMC2209)
 
-STOP_0  ─────────── Endstop X (PG6)
+T1 (PF5) ────────── Endstop X
 ```

@@ -122,9 +122,10 @@ Els connectors T de la placa serveixen principalment per a termistors, però só
 | Connector | Ús normal | El nostre ús |
 |-----------|-----------|--------------|
 | T0 (PF4) | Termistor hotend | Termistor ATC Semitec SO3 |
-| T1 (PF3) | Termistor llit | Termistor llit (pendent) |
-| T2 | Lliure | — |
+| T1 (PF5) | Endstop X (reconvertit) | Final de carrera eix X |
+| T2 (PF6) | Endstop Y (reconvertit) | Final de carrera eix Y |
 | T3 (PF7) | Lliure | Endstop Z màxim de seguretat |
+| BED (PF3) | Termistor llit | Termistor llit (pendent) |
 
 ---
 

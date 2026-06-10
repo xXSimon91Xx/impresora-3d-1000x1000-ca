@@ -1,4 +1,4 @@
-# Cablejat — Vista general
+﻿# Cablejat — Vista general
 
 > Mapa de connexions de tots els sistemes a la BTT Octopus Pro V1.1.
 
@@ -24,7 +24,7 @@ graph TD
     OCT -->|PB6 control / PB7 sensor| CRT[CR Touch ALT04]
 
     OCT -->|PF4 T0| THERM_E[Termistor extrusor]
-    OCT -->|PF3 T1| THERM_B[Termistor llit pendent]
+    OCT -->|PF3 BED| THERM_B[Termistor llit pendent]
     OCT -->|PA3 HE0| HEAT_E[Calefactor hotend 24V 72W]
     OCT -->|PA1 HE_BED| HEAT_B[Calefactor llit]
 

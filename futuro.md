@@ -1,4 +1,4 @@
-# Projectes de futur
+﻿# Projectes de futur
 
 > Idees i millores planificades per continuar el desenvolupament de la màquina.  
 > Algunes són senzilles d'implementar; d'altres són projectes complets en si mateixos.
@@ -74,14 +74,14 @@ Perquè la màquina pugui ser usada oficialment en qualsevol centre educatiu o c
 Traduir tota la documentació al català (per a ús local) i a l'anglès (perquè altres projectes internacionals puguin replicar la màquina).
 
 ### Render 3D explotat de la màquina
-Crear un render amb vista explosionada de tots els components perquè sigui fàcil entendre l'ensamblatge sense tenir la màquina davant. Pendent quan el Sergio pugi els arxius STEP del marc.
+Crear un render amb vista explosionada de tots els components perquè sigui fàcil entendre l'ensamblatge sense tenir la màquina davant. Pendent quan es pugin els arxius STEP del marc.
 
 ---
 
 ## Pendents immediats
 
 - [ ] Instal·lar 4 × llits calefactats 500×500mm en paral·lel
-- [ ] Pujar arxius STL i STEP de peces impreses (Sergio)
-- [ ] Pujar plànols del marc en PDF (Sergio)
+- [ ] Pujar arxius STL i STEP de peces impreses
+- [ ] Pujar plànols del marc en PDF
 - [ ] Calibració final: PID llit, Z offset definitiu amb `PROBE_CALIBRATE`
 - [ ] Provar i validar macro de power-loss recovery

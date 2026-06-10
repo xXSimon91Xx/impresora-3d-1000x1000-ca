@@ -123,4 +123,4 @@ Els arxius STEP de tots els components del projecte estan disponibles a la carpe
 
 Inclou: ensamblatge complet, extrusor Smart Orbiter v3.0, eixos X/Y/Z, llit calefactat, perfils item i elements de transmissiÃ³ (57 arxius STEP en total).
 
-Dissenyats per **Sergio Tenorio MartÃ­nez**. Format STEP â€” compatible amb FreeCAD, Fusion 360, SolidWorks i qualsevol CAD estÃ ndard. TambÃ© visualitzables en lÃ­nia a [3dviewer.net](https://3dviewer.net).
+Format STEP â€” compatible amb FreeCAD, Fusion 360, SolidWorks i qualsevol CAD estÃ ndard. TambÃ© visualitzables en lÃ­nia a [3dviewer.net](https://3dviewer.net).

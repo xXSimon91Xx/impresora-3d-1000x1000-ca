@@ -182,7 +182,7 @@ Sessió completa de connexió de tots els cables al panell d'electrònica verd. 
 | `MZ2` | Motor Z dret (MOTOR5) |
 | `BLTOU` | Cable de control CR Touch (servo, PB6) |
 | `NDSTOPZ` | Endstop Z màxim (PF7) |
-| `NDSTOPX` | Endstop X (PG6) |
+| `NDSTOPX` | Endstop X (PF5) |
 | `BED` | Cables cama calefactada (pendent) |
 
 ![Panell electrònica complet](../fotos/05-montaje-electronica/panel-electronica-completo-verde.jpg)

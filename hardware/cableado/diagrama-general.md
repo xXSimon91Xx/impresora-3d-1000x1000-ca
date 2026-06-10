@@ -30,7 +30,7 @@
 │  PB6 / PB7   ◄──► CR Touch (control + sensor)                      │
 │                                                                      │
 │  T0 (PF4)    ◄──── Termistor hotend (ATC Semitec 104NT-4)          │
-│  T1 (PF3)    ◄──── Termistor llit (pendent d'instal·lar)           │
+│  BED (PF3)   ◄──── Termistor llit (pendent d'instal·lar)           │
 │  HE0 (PA3)   ────► Calefactor hotend 24V 72W                       │
 │  HE_BED(PA1) ────► Llit calefactat 24V                             │
 │  FAN2 (PD12) ────► Ventilador heatsink SO3                         │

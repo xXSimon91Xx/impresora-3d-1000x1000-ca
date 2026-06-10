@@ -67,7 +67,7 @@ graph TD
 | Component | Pin | Tipus | Connector |
 |-----------|-----|-------|-----------|
 | Termistor extrusor | PF4 | ATC Semitec 104NT-4-R025H42G | T0 (J45) |
-| Termistor llit | PF3 | EPCOS 100K (placeholder) | T1 (J44) |
+| Termistor llit | PF3 | EPCOS 100K (placeholder) | BED (J44) |
 
 ---
 
